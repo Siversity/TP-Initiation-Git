@@ -12,5 +12,6 @@ package com.mycompany.tp.initialisation.git;
 public class Classe1 {
     
     // Modification n°1
-    // Modification n]2 par Denoëla
+    // Modification n°2 par Denoëla
+    // Commentaire créé en local en vue de la création d'un conflit
 }
