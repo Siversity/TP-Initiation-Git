@@ -12,5 +12,5 @@ package com.mycompany.tp.initialisation.git;
 public class Classe1 {
     
     // Modification n°1
-    
+    // Modification n]2 par Denoëla
 }
